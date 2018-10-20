@@ -2,7 +2,7 @@
 /***added font family ***/
 body {
   background-color: #1f1f1f;
-  font-family: helvetica, serif, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 12px;
 }
 
@@ -22,7 +22,7 @@ nav {
   box-sizing: border-box;
 }
 
-/***added hi and h3 styles***/
+/***added h1 and h3 styles***/
 h1 {
   font-size: 18px;
   font-size-adjust: auto;

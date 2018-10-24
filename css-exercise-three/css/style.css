@@ -57,6 +57,7 @@ h3 {
   border-color: #797979;
 }
 
+/*** changed background color to darkgray ***/
 .location:hover {
   background-color: darkgray;
 }

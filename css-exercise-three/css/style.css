@@ -3,7 +3,6 @@ body {
   background-color: #1f1f1f;
   font-family: helvetica, arial, sans-serif;
   font-size: 12px;
-  display: inline-block;
 }
 
 .container {
@@ -44,10 +43,10 @@ h3 {
 
 /*** added arrow position ***/
 .arrow {
-  display: inline-block 50%;
-  float: right;
+  display: inline-block;
   margin-top: -7%;
   margin-right: 10px;
+  width: 100%;
 }
 
 /***Added location styles for borders***/

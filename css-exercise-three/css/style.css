@@ -46,7 +46,8 @@ h3 {
   display: inline-block;
   margin-top: -7%;
   margin-right: 10px;
-  width: 100%;
+  width: 15%;
+  text-align: right;
 }
 
 /***Added location styles for borders***/

@@ -41,10 +41,15 @@ h3 {
   background-color: lightgray;
 }
 
+.content {
+  display: inline-block;
+  width: 80%%;
+}
+
 /*** changed arrow position ***/
 .arrow {
   display: inline-block;
-  margin-top: -7%;
+  margin-bottom: 5px;
   margin-right: 10px;
   width: 15%;
   text-align: right;
